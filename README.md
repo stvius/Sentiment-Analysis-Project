@@ -25,10 +25,10 @@ Read and follow the instructions! You can find and download the dataset for this
 * Step 5: Testing the Model
 * Step 6: Deploying the model for testing
 * Step 7: Use the model for testing
-* Step 6 Deploy the model for the web app
-* Step 7 Use the model for the web app
+* Step 8 Deploy the model for the web app
+* Step 9 Use the model for the web app
 
-Libraries
+### Libraries
 
 The list below represents main libraries and its objects for the project.
 
