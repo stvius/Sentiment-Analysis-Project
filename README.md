@@ -39,4 +39,4 @@ pytorch (LSTM classifier)
 
 Remember to always SHUT DOWN YOUR ENDPOINT if you are no longer using it. You are charged for the length of time that the endpoint is running so if you forget and leave it on you could end up with an unexpectedly large bill.
 
-	`predictor.delete_endpoint()`
+	predictor.delete_endpoint()
