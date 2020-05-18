@@ -32,8 +32,10 @@ Libraries
 The list below represents main libraries and its objects for the project.
 
 Amazon SageMaker (Build, train, and deploy a model)
+
 pytorch (LSTM classifier)
-Delete the Endpoint
+
+## Delete the Endpoint
 
 Remember to always SHUT DOWN YOUR ENDPOINT if you are no longer using it. You are charged for the length of time that the endpoint is running so if you forget and leave it on you could end up with an unexpectedly large bill.
 
